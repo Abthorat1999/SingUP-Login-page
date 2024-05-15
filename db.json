@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": "01",
+      "firstName": "Alex",
+      "lastName": "carry",
+      "emailId": "alcarry@gmail.com",
+      "mobileNo": 9099960600,
+      "salary": 100000
+    },
+    {
+      "id": "02",
+      "firstName": "abhay",
+      "lastName": "thorat",
+      "emailId": "ab@gmail.com",
+      "mobileNo": 909993654,
+      "salary": 20000
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "abhay thorat",
+      "email": "abha@gamail.com",
+      "password": "Abhyay",
+      "mobile": 9898959596,
+      "id": 1
+    },
+    {
+      "fullName": "adesh sow",
+      "email": "adx@gmail.com",
+      "password": "adesh@123",
+      "mobile": 9596949701,
+      "id": 2
+    },
+    {
+      "fullName": "sda",
+      "email": "",
+      "password": "kd",
+      "mobile": "",
+      "id": 3
+    },
+    {
+      "fullName": "abhay ",
+      "email": "ab@gmail.com",
+      "password": "2244",
+      "mobile": 9099960600,
+      "id": 4
+    },
+    {
+      "fullName": "abhaythorat",
+      "email": "abthorat99@gmail.com",
+      "password": "Abhay@123",
+      "mobile": 9309607093,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
